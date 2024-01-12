@@ -7,6 +7,4 @@ eureka:
     fetch-registry: true
     register-with-eureka: true
 
-spring:
-    application:
-      name: config-default
+
